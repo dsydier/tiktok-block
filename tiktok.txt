@@ -1,4 +1,3 @@
-
 # This blocklist helps Pi-hole's admin restrict access to tiktok and its domains.
 # Curated from  sources online. https://github.com/TheDoop/block-tiktok/blob/master/hosts
 
@@ -61,3 +60,10 @@
 0.0.0.0 pull-w5-sg01.tiktokcdn.com
 0.0.0.0 pull-f5-va01.ttlivecdn.com
 0.0.0.0 pull-cmaf-l16-sg01.tiktokcdn.com
+0.0.0.0 insgame-api-va.tiktokv.com
+0.0.0.0 pitaya-task-va.tiktokv.com
+
+# Whatsapp
+0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 whatsapp.com
