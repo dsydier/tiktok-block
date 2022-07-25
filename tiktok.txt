@@ -60,6 +60,18 @@
 0.0.0.0 pull-hls-f77-sg01.tiktokcdn.com
 0.0.0.0 pull-w5-sg01.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 search31-normal-useast1a.tiktokv.com
+0.0.0.0 help.instagram.com
+0.0.0.0 news-af.feednews.com
+0.0.0.0 scontent-lhr8-1.xx.fbcdn.net
+0.0.0.0 bsync-va.tiktokv.com
+0.0.0.0 api22-core.tiktokv.com
+0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 v39-dynamic-lhr3.tiktokcdn.com
+0.0.0.0 log22-normal-useast1a.tiktokv.com	
+0.0.0.0 scontent-lhr8-1.xx.fbcdn.net
+0.0.0.0 log22-normal-useast1a.tiktokv.com
+0.0.0.0 i.ytimg.com
 
 # Whatsapp
 0.0.0.0 www.whatsapp.com
