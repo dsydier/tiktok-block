@@ -102,3 +102,4 @@
 0.0.0.0 s.joinhoney.com
 0.0.0.0 d27xxe7juh1us6.cloudfront.net
 0.0.0.0 cdn.honey.io
+0.0.0.0 a1931.dscgi3.akamai.net
