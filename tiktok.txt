@@ -88,3 +88,17 @@
 0.0.0.0 pps.whatsapp.net
 0.0.0.0 media-lhr8-1.cdn.whatsapp.net
 0.0.0.0 wa.tenor.co
+
+# netflix
+0.0.0.0 www.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 occ-0-179-300.1.nflxso.net
+0.0.0.0 ichnaea.netflix.com
+
+0.0.0.0 iphone-ld.origin-apple.com.akadns.net
+0.0.0.0 www.recaptcha.net
+0.0.0.0 www.pinterest.co.uk
+0.0.0.0 femetrics.grammarly.io
+0.0.0.0 s.joinhoney.com
+0.0.0.0 d27xxe7juh1us6.cloudfront.net
+0.0.0.0 cdn.honey.io
